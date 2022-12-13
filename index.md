@@ -3,7 +3,7 @@ This is my home page! My name is Boushra Bettir and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page are [bbgoddess](https://github.com/bbgoddess).
+My GitHub page is [bbgoddess](https://github.com/bbgoddess).
 
 ### CPSC 120
 
